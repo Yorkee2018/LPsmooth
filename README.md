@@ -21,7 +21,7 @@ install_github('Yorkee2018/LPsmooth')
 
 To see the available function to use, type 
 
-ls("package:onlineChange")
+ls("package:LPsmooth")
 
 ## References
 
